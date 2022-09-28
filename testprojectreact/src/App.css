@@ -1,0 +1,44 @@
+body{
+  background: #86109B;
+}
+.container{
+  text-align: center ;
+  color:antiquewhite;
+  margin-left: auto;
+  margin: 0%;
+}
+
+.container .header{
+  color: green;
+  margin: 0%;
+}
+.container .logo{
+  color: red; 
+}
+.container .body-section input{
+color: green;
+height: 30px;
+width : 50%;
+text-align: center;
+border-radius: 30px;
+}
+.container .body-section .add-btn{
+  margin-top: 10px;
+  height: 25px;
+  text-align: center;
+  text-decoration: none;
+  width: 10%;
+  border-radius: 30px;
+  border-style: groove;
+  border-color: green;
+  cursor:auto;
+}
+.container .body-section .add-btn:hover{
+  width: 15%;
+  background: green;
+  height:40px ;
+}
+.container .body-section .list {
+  align-items: center;
+
+}
